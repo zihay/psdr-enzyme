@@ -16,3 +16,6 @@
 [submodule "ext/googletest"]
 	path = ext/googletest
 	url = https://github.com/google/googletest.git
+[submodule "ext/Enzyme"]
+	path = ext/Enzyme
+	url = https://github.com/EnzymeAD/Enzyme.git
